@@ -1,0 +1,1078 @@
+@media (min-width: 360px) and (max-width: 578px) {
+    .CustomContainer {
+       width: 100% !important;
+    }
+    .mobile-input-div .frm-control{
+       width: 100% !important;
+    }
+    .rightLeft{
+       margin-left: 0 !important;
+    }
+     .main-navbar {
+       display: none;
+    }
+     .logo img {
+       width: 150px;
+       height: auto;
+    }
+     .leftMenu .logo {
+       margin-right: 0rem;
+       margin-left: 14px;
+    }
+     .tabs {
+       overflow-x: scroll;
+       overflow-y: hidden;
+    }
+     .tabs::-webkit-scrollbar {
+       width: 3px;
+       height: 3px;
+       background-color: #aaa;
+    }
+ 
+    .tabs::-webkit-scrollbar-thumb {
+       background: #d32f2f;
+    }
+ 
+    .tabs a {
+       white-space: nowrap;
+       font-size: 13px;
+    }
+ 
+    #tab-owlCarousel .owl-nav .owl-prev {
+       left: -22px;
+    }
+ 
+    #tab-owlCarousel .owl-nav .owl-next {
+       right: -22px;
+    }
+ 
+    .warpper-flex {
+       display: block !important;
+    }
+ 
+    .warpper-flex .warrper-img img {
+       width: 100% !important;
+       height: auto !important;
+    }
+ 
+    .right-wrapper h6 {
+       margin-left: 0px;
+       height: auto;
+       text-align: start;
+       font-size: 15px;
+    }
+ 
+    .social-buttom {
+       display: block;
+    }
+ 
+    .imogies-content {
+       left: 0 !important;
+    }
+ 
+    .imogies-content img {
+       width: 29px;
+       height: 29px;
+    }
+ 
+    .cricket-tabs a {
+       font-size: 12px;
+       margin-right: 3px;
+    }
+ 
+    .warpper-flex .video-icon::after {
+       top: 31%;
+       left: 49%;
+    }
+ 
+    .newsletter-content-portal .newsletter-lists {
+       grid-template-columns: auto;
+    }
+ 
+    .newsletter-content-portal h1 {
+       font-size: 24px;
+    }
+ 
+    .newsletter-content-portal {
+       margin-top: 3rem;
+       margin-bottom: 7rem;
+    }
+   .sport-search{
+    display: none;
+   }
+    .hero-portal-container {
+       display: block;
+       width: 329px;
+       margin-top: 4rem;
+ 
+    }
+ 
+    .hero-portal-container .content-section h1 {
+       font-size: 30px;
+       line-height: 42px;
+    }
+ 
+    .newsletter-hero-portal {
+       height: auto;
+    }
+    
+     .right .hero-img img {
+       width: 225px;
+       height: auto;
+       display: flex;
+       margin: auto;
+    }
+    .hero-container .left {
+       padding: 0px 2px !important;
+    }
+     .hero-container .left {
+       text-align: center;
+    }
+     .crms-moretext img {
+       width: 100%;
+    }
+     .primary-navigation .nav-items .primary-nav-items::-webkit-scrollbar {
+       width: 0px;
+       height: 0px;
+       background-color: #aaa;
+    }
+    .primary-navigation .nav-items .primary-nav-items::-webkit-scrollbar-thumb {
+       background: #d32f2f;
+    }
+ 
+    .primary-navigation .nav-items {
+       gap: 8px;
+    }
+ 
+    .primary-navigation .primary-nav-items ul {
+       gap: 8px;
+    }
+ 
+    ._cricket_team_name {
+       font-size: 15px;
+    }
+ 
+    ._cricket_team_name img {
+       height: 30px;
+       width: 30px;
+    }
+ 
+    ._cricket_event_date {
+       font-size: 13px;
+    }
+ 
+    ._match_point_table {
+       overflow-x: scroll;
+    }
+ 
+    ._first_stand {
+       white-space: nowrap;
+    }
+ 
+    ._table_stands2 th,
+    td {
+       white-space: nowrap;
+    }
+ 
+    .table_scroll {
+       overflow-x: scroll;
+    }
+ 
+    .video-click-icon .v-img {
+       bottom: 4.5rem;
+       left: 9rem;
+    }
+ 
+    .hero-container .hero-h1-container .hero-h1 {
+       font-size: 18px !important;
+       font-weight: 700 !important;
+       line-height: 30px !important;
+       padding-top: 6px;
+    }
+ 
+    .hero-container .hero-h1-container {
+       justify-content: center !important;
+       background: radial-gradient(50% 50% at 50% 50%, #1A0C7E 0%, #0F0359 100%);
+    }
+ 
+    .hero-container .hero-content {
+       flex-direction: column-reverse !important;
+       gap: 0 !important;
+       position: relative;
+       bottom: 20px;
+    }
+ 
+    .hero-container .hash-tagline {
+       margin-top: 0 !important;
+       font-size: 16px !important;
+    }
+ 
+    .topic-team-scores {
+       right: 0;
+    }
+ 
+    .topic-bottom-header {
+       padding: 7px 4px;
+    }
+ 
+    .topic-bottom-header a {
+       margin-right: 4px;
+    }
+ 
+    ._match_point_table::-webkit-scrollbar {
+       width: 3px;
+       height: 3px;
+       background-color: #aaa;
+    }
+ 
+    ._match_point_table::-webkit-scrollbar-thumb {
+       background: #d32f2f;
+    }
+ 
+    .table_scroll::-webkit-scrollbar {
+       width: 3px;
+       height: 3px;
+       background-color: #aaa;
+    }
+ 
+    .table_scroll::-webkit-scrollbar-thumb {
+       background: #d32f2f;
+    }
+ 
+    .football-section-panel-body {
+       grid-template-columns: auto;
+    }
+ 
+    .match-details-wrapper .match-details-row .label {
+       width: auto;
+    }
+ 
+    .Feedsection .feed-header h3 {
+       font-size: 15px;
+       font-weight: 500;
+    }
+ 
+    .heading h2 {
+       font-size: 18px;
+    }
+ 
+    .cricketheading {
+       padding: 10px 7px 20px 0px;
+    }
+ 
+    .cricketheading h2 {
+       font-size: 20px;
+    }
+ 
+    .story-user-actions li {
+       margin-right: 7px;
+    }
+ 
+    .cricket-intro img {
+       height: auto;
+    }
+ 
+    .media-login-keeda {
+       display: block !important;
+    }
+ 
+    .media-login-keeda {
+       margin-top: 14px;
+    }
+ 
+    .media-login-keeda .media-login-btn {
+       display: block;
+       padding: 5px 5px;
+       padding-bottom: 9px;
+       color: #fff;
+       background-color: #af2222;
+       border-radius: 20px;
+       text-decoration: none;
+       text-align: center;
+       font-weight: 700;
+    }
+ 
+    .breadcrumb-container .wrapper-container ul::-webkit-scrollbar {
+       width: 0px;
+       height: 0px;
+       background-color: #aaa;
+    }
+ 
+    .breadcrumb-container .wrapper-container ul::-webkit-scrollbar-thumb {
+       background: #d32f2f;
+    }
+ 
+    .bc-2 .wrapper-container ul a {
+       font-size: 12px !important;
+    }
+ 
+    .feed-carousel-item .thumbnail img {
+       height: auto !important;
+       width: 100%;
+    }
+ 
+    #Premier-video-owlCarousel .owl-nav button {
+       top: calc(35% - 15px);
+    }
+ 
+    .sports-author-text {
+       font-size: 14px !important;
+    }
+ 
+    .live-topic-box .sticky-clamp-text {
+       font-size: 16px !important;
+    }
+    .primary-navigation .secondary-nav-items ul {
+       grid-template-rows: repeat(8, 1fr);
+       grid-row-gap: 2px;
+   }
+   .primary-navigation .secondary-nav-items ul li a {
+     padding: 7px 15px;
+     font-size: 12px;
+  }
+  .tag-page-header-info{
+    padding: 0 8px !important;
+  }
+  .tag-page-header-meta{
+    font-size: 13px !important;
+  }
+  .tag-page-header-meta .tagpage-author a {
+    font-size: 13px !important;
+  }
+  .tag-page-header{
+    width: 100% !important;
+  }
+  .smart-menu-holder{
+    overflow-x: scroll;
+    width: 100%;
+    padding: 5px;
+  }
+   .smart-menu-holder::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+    background-color: #aaa;
+ }
+ 
+  .smart-menu-holder::-webkit-scrollbar-thumb {
+    background: #d32f2f;
+ }
+  .smart-menu-holder ul a{
+    white-space: nowrap !important;
+  }
+  .breadcrumb-container .wrapper-container ul{
+    padding-left: 10px;
+  }
+  .social-wrapper{
+    width: 100% !important;
+  }
+  .feed-item-secondary{
+    width: calc(100% - 20px);
+  }
+  .button-nav-owl-icon .owl-nav .owl-next {
+    right: -10px !important;
+  }
+ 
+ .button-nav-owl-icon .owl-nav .owl-prev {
+    left: -10px !important;
+  }
+  .default-owl-icon .owl-nav .owl-prev {
+    left: -10px !important;
+  }
+  .default-owl-icon .owl-nav .owl-next {
+    right: -10px !important;
+  }
+  .footer-bullet {
+     width: calc(100%/2);
+  }
+  .footer{
+    padding: 10px 20px;
+    width: 100% !important;
+  }
+  .trending-topics-container {
+    width: 100% !important;
+  }
+  .comments-info-block {
+     flex-direction: column;
+ }
+ .border-none li{
+    margin-right: 30px !important;
+ }
+ .primary-navigation .nav-items .primary-nav-items {
+      overflow-x: auto !important;
+  }
+  .sticky-content-holder {
+     top: -5px;
+ }
+ .tennis-table{
+    width: 100% !important;
+ }
+ .bottom-navbar {
+    width: 100%;
+    height: 52px;
+    position: fixed;
+    bottom: -1px;
+    left: 0;
+    background: #f0edf6;
+    z-index: 999;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    box-shadow: 0px -1px 4px rgb(0 0 0 / 10%);
+ }
+ .bottom-navbar a.active {
+    color: #d32f2f;
+    border-bottom: 3px solid #d32f2f;
+    flex-shrink: 0;
+ }
+ .bottom-navbar a {
+    height: 100%;
+    flex: 1;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 16px;
+    letter-spacing: 0.5px;
+    text-decoration: none;
+    color: #666;
+    border-bottom: 3px solid transparent;
+    padding-top: 3px;
+ }
+ .bottom-navbar a.active img {
+    filter: invert(70%) sepia(91%) saturate(2020%) hue-rotate(346deg) brightness(90%) contrast(85%);
+ }
+ .bottom-navbar a img {
+    width: 20px;
+    height: 20px;
+    background: none;
+    object-fit: cover;
+ }
+ .mt-20{
+    margin-bottom: 2rem;
+ }
+ .about-us-header{
+    display: block !important;
+ }
+ .section-container{
+    width: 100% !important;
+ }
+ .a-section {
+    margin: 52px 0px;
+    padding: 9px;
+ }
+ .intro{
+    display: block !important;
+ }
+ .image-section img{ 
+    width: 100% !important;
+ }
+ .editorial-content{
+    display: block !important;
+ }
+ .content-desc-mobile h1{
+    font-size: 25px !important;
+ }
+ .organisation-content{
+    width: 100%;
+ }
+ .leadership-team .team-members .member {
+     margin: 10px;
+ }
+ .get-in-touch-content{
+    margin: 10px;
+ }
+ ul.story-item-list li {
+     width: 100%;
+ }
+ .abt-content {
+     flex-direction: column !important;
+     padding: 14px;
+  }
+  .c-box .briefing-vision .c-vision{
+    flex-direction: column !important;
+    text-align: center !important;
+  }
+  .briefing-vision img{
+    width: 100%;
+  }
+  .c-card{
+    width: 100%;
+    display: flex !important;
+    flex-direction: column !important;
+    margin: 0 !important;
+    margin-bottom: 10px !important;
+    height: auto !important;
+  }
+  #reason .c-vision .c-content h5{
+    padding-right: 0 !important;
+  }
+  .briefing-about{
+    padding-right: 0 !important;
+  }
+  .section-container h1{
+    padding: 8px 10px !important;
+  }
+  .c-box .abt-content .briefing-about {
+    width: 100%;
+ }
+ .fantasy-cricket--hero h1 {
+    font-size: 23px;
+    }
+    .sport-container .sport-fragments{
+       display: block !important;
+    }   
+    .sport-container .content-left{
+       position: relative !important;
+    }
+    .sport-container .content-left{
+       max-width: 100%;
+       width: 100%;
+    }
+    .fantasy-panel{
+       overflow: hidden;
+       height: auto !important;
+     }
+     .sport-container .content-middle {
+       width: 100%  !important;
+     }
+     .fantasy-feed-item-secondary{
+       width: calc(100% - 32px) !important;
+     }
+     .sports-feed-item-primary-element img{
+       width: 100% !important;
+     }
+     .sports-feed-item-primary-element .sports-feed-item-element-meta{
+       height: 48PX;
+       padding: 3px 10px
+     }
+     .fantasy-sports-primary-title{
+       font-size: 12px;
+       line-height: 16px;
+       width: 100%;
+     }
+     .fantasy-cricket--hero .left-side{
+       width: 100% !important;
+       min-width: 100% !important;
+     }
+     .fantasy-cricket--hero .content{
+       gap: 0 !important;
+     }
+     .sport-container .rightStickyTopWrap{
+       max-width: 100% !important;
+       width: 100% !important;
+     }
+     .rightStickyTop{
+       height: 200px !important;
+   }
+   .Only-Mobile{
+    display: block !important;
+ }
+ .fan-bc-holder{
+    margin-top: 5.6rem;
+ }
+ .main-section {
+    margin-top: 7rem;
+ }
+ .only-mobile-nav-items ul li a{
+    padding: 10px 10px !important;
+ }
+ .sports-feed-item .sports-feed-item-element-meta{
+    border-radius: 0 !important;
+ }
+ .sports-feed-item img{
+    width: 100% !important;
+    border-radius: 0 !important;
+ }
+ .sports-feed-item .sports-feed-item-element-meta{
+    height: auto !important;
+    padding: 5px 10px !important;
+ }
+ .first-border-section .sports-primary-title {
+    font-weight: 600;
+    font-size: 15px;
+    width: 100%;
+    line-height: 17px;
+    padding: 4px;
+ }
+ .sports-feed-item{
+    height: 220px;
+ }
+ .sportKeedaFeed {
+    padding: 16px 8px 0px;
+ }
+ .login-container{
+    width: 100% !important;
+ }
+ .mobile-input-div .intel-control{
+    width: 100% !important;
+ }
+ .expert-suggestion-announced .team-content{
+    margin-bottom: 10px;
+ }
+ .responsive-remove-padding{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+ }
+ .fantasy-stats-tab{
+    overflow-x: auto !important;
+ }
+ .fantasy-player-stats .stats-content{
+    width: 100% !important;
+    border-bottom: 1px solid #e9e9e9 !important;
+    border: none;
+ }
+ .fantasy-player-stats .stats-player-detail{
+    padding: 11px 0px 12px 0px !important;
+ }
+ .commentary-over-summary {
+    margin: 0px 0px;
+    padding: 6px 4px;
+    gap: 12px;
+ }
+ .total-score{
+    flex-direction: column;
+    padding: 1px;
+ }
+ .overs-block {
+    padding-right: 0px;
+    flex-direction: column;
+    border: none;
+ }
+ .over-value {
+    font-size: 20px;
+    font-weight: 700;
+ }
+ .score-block {
+    padding: 0px 2px 0 3px;
+ }
+ .run-value {
+    font-size: 20px;
+    font-weight: 700;
+ }
+ .wicket-value{
+    font-size: 20px;
+    font-weight: 700;
+ }
+ .players-in-over{
+    flex-direction: column;
+ }
+ .single-player-row .role-icon {
+    margin: 0 2px 0 0;
+    height: 16px;
+    width: 16px;
+  }
+  .batsmen-list, .bowlers-list {
+    width: 99%;
+  }
+  .live-score-section .score-section .score-section-header {
+    font-size: 14px;
+  }
+  .score-section-body{
+    font-size: 14px;
+  }
+  .scorecard-accordion {
+    padding: 5px 20px;
+  }
+  .scorecard-section-v2 .innings-table-header{
+    font-size: 13px;
+  }
+  .scorecard-section-v2 .innings-table-row div{
+     font-weight: 500 !important;
+     font-size: 13px;
+  }
+  .scorecard-section-v2 .innings-bowler-row .innings-batsman-reason{
+    font-size: 12px !important;
+  }
+  .scorecard-section-v2 .innings-table-row .innings-extras-info {
+    width: 360px !important;
+    max-width: 400px;
+ }
+  
+ .scorecard-section-v2 .innings-dnb .innings-dnb-info {
+    font-size: 13px !important;
+ }
+ .scorecard-section-v2 .innings-table-row .innings-fow-reason{
+    font-size: 13px !important;
+ }
+ .scorecard-section-v2 .innings-table-row div:first-child{
+    display: block !important;
+ }
+ .SearchContainer{
+   width: 100% !important;
+  }
+  .results-tabs{
+   overflow-y: hidden;
+    overflow-x: scroll;
+  }
+ }
+ 
+ @media (min-width: 578px) and (max-width: 720px) {
+    .CustomContainer {
+       width: 100% !important;
+    }
+ 
+    .main-navbar {
+       display: none;
+    }
+ 
+    .logo img {
+       width: 150px;
+       height: auto;
+    }
+ 
+    .leftMenu .logo {
+       margin-right: 0rem;
+       margin-left: 14px;
+    }
+ 
+    .tabs {
+       overflow-x: scroll;
+       overflow-y: hidden;
+    }
+ 
+    .tabs::-webkit-scrollbar {
+       width: 3px;
+       height: 3px;
+       background-color: #aaa;
+    }
+ 
+    .tabs::-webkit-scrollbar-thumb {
+       background: #d32f2f;
+    }
+ 
+    .tabs a {
+       white-space: nowrap;
+       font-size: 13px;
+    }
+ 
+    #tab-owlCarousel .owl-nav .owl-prev {
+       left: -22px;
+    }
+ 
+    #tab-owlCarousel .owl-nav .owl-next {
+       right: -22px;
+    }
+ 
+    .warpper-flex {
+       display: block !important;
+    }
+ 
+    .warpper-flex .warrper-img img {
+       width: 100% !important;
+       height: auto !important;
+    }
+ 
+    .right-wrapper h6 {
+       margin-left: 0px;
+       height: auto;
+       text-align: start;
+       font-size: 15px;
+    }
+ 
+    .social-buttom {
+       display: block;
+    }
+ 
+    .imogies-content {
+       left: 0 !important;
+    }
+ 
+    .imogies-content img {
+       width: 29px;
+       height: 29px;
+    }
+ 
+    .cricket-tabs a {
+       font-size: 12px;
+       margin-right: 3px;
+    }
+ 
+    .warpper-flex .video-icon::after {
+       top: 31%;
+       left: 49%;
+    }
+ 
+    .newsletter-content-portal .newsletter-lists {
+       grid-template-columns: auto;
+    }
+ 
+    .newsletter-content-portal h1 {
+       font-size: 24px;
+    }
+ 
+    .newsletter-content-portal {
+       margin-top: 3rem;
+       margin-bottom: 7rem;
+    }
+ 
+    .hero-portal-container {
+       display: block;
+       width: 329px;
+       margin-top: 4rem;
+ 
+    }
+ 
+    .hero-portal-container .content-section h1 {
+       font-size: 30px;
+       line-height: 42px;
+    }
+ 
+    .newsletter-hero-portal {
+       height: auto;
+    }
+ 
+    .rightHead {
+       display: none;
+    }
+ 
+    .right .hero-img img {
+       width: 225px;
+       height: auto;
+       display: flex;
+       margin: auto;
+    }
+ 
+    .hero-container .left {
+       padding: 0px 2px !important;
+    }
+ 
+    .hero-container .left {
+       text-align: center;
+    }
+ 
+    .crms-moretext img {
+       width: 100%;
+    }
+ 
+    .primary-navigation .nav-items .primary-nav-items::-webkit-scrollbar {
+       width: 0px;
+       height: 0px;
+       background-color: #aaa;
+    }
+ 
+    .primary-navigation .nav-items .primary-nav-items::-webkit-scrollbar-thumb {
+       background: #d32f2f;
+    }
+ 
+    .primary-navigation .nav-items {
+       gap: 8px;
+    }
+ 
+    .primary-navigation .primary-nav-items ul {
+       gap: 8px;
+    }
+ 
+    ._cricket_team_name {
+       font-size: 15px;
+    }
+ 
+    ._cricket_team_name img {
+       height: 30px;
+       width: 30px;
+    }
+ 
+    ._cricket_event_date {
+       font-size: 13px;
+    }
+ 
+    ._match_point_table {
+       overflow-x: scroll;
+    }
+ 
+    ._first_stand {
+       white-space: nowrap;
+    }
+ 
+    ._table_stands2 th,
+    td {
+       white-space: nowrap;
+    }
+ 
+    .table_scroll {
+       overflow-x: scroll;
+    }
+ 
+    .video-click-icon .v-img {
+       bottom: 4.5rem;
+       left: 9rem;
+    }
+ 
+    .hero-container .hero-h1-container .hero-h1 {
+       font-size: 18px !important;
+       font-weight: 700 !important;
+       line-height: 30px !important;
+       padding-top: 18px;
+    }
+ 
+    .hero-container .hero-h1-container {
+       justify-content: center !important;
+       background: radial-gradient(50% 50% at 50% 50%, #1A0C7E 0%, #0F0359 100%);
+    }
+ 
+    .hero-container .hero-content {
+       flex-direction: column-reverse !important;
+       gap: 0 !important;
+       position: relative;
+       bottom: 20px;
+    }
+ 
+    .hero-container .hash-tagline {
+       margin-top: 0 !important;
+       font-size: 16px !important;
+    }
+ 
+    .topic-team-scores {
+       right: 0;
+    }
+ 
+    .topic-bottom-header {
+       padding: 7px 4px;
+    }
+ 
+    .topic-bottom-header a {
+       margin-right: 4px;
+    }
+ 
+    ._match_point_table::-webkit-scrollbar {
+       width: 3px;
+       height: 3px;
+       background-color: #aaa;
+    }
+ 
+    ._match_point_table::-webkit-scrollbar-thumb {
+       background: #d32f2f;
+    }
+ 
+    .table_scroll::-webkit-scrollbar {
+       width: 3px;
+       height: 3px;
+       background-color: #aaa;
+    }
+ 
+    .table_scroll::-webkit-scrollbar-thumb {
+       background: #d32f2f;
+    }
+ 
+    .football-section-panel-body {
+       grid-template-columns: auto;
+    }
+ 
+    .match-details-wrapper .match-details-row .label {
+       width: auto;
+    }
+ 
+    .Feedsection .feed-header h3 {
+       font-size: 15px;
+       font-weight: 500;
+    }
+ 
+    .heading h2 {
+       font-size: 18px;
+    }
+ 
+    .cricketheading {
+       padding: 10px 7px 20px 0px;
+    }
+ 
+    .cricketheading h2 {
+       font-size: 20px;
+    }
+ 
+    .story-user-actions li {
+       margin-right: 7px;
+    }
+ 
+    .cricket-intro img {
+       height: auto;
+    }
+ 
+    .media-login-keeda {
+       display: block !important;
+    }
+ 
+    .media-login-keeda {
+       margin-top: 14px;
+    }
+ 
+    .media-login-keeda .media-login-btn {
+       display: block;
+       padding: 5px 5px;
+       padding-bottom: 9px;
+       color: #fff;
+       background-color: #af2222;
+       border-radius: 20px;
+       text-decoration: none;
+       text-align: center;
+       font-weight: 700;
+    }
+ 
+    .breadcrumb-container .wrapper-container ul::-webkit-scrollbar {
+       width: 0px;
+       height: 0px;
+       background-color: #aaa;
+    }
+ 
+    .breadcrumb-container .wrapper-container ul::-webkit-scrollbar-thumb {
+       background: #d32f2f;
+    }
+ 
+    .bc-2 .wrapper-container ul a {
+       font-size: 12px !important;
+    }
+ 
+    .feed-carousel-item .thumbnail img {
+       height: auto !important;
+       width: 100%;
+    }
+ 
+    #Premier-video-owlCarousel .owl-nav button {
+       top: calc(35% - 15px);
+    }
+ 
+    .sports-author-text {
+       font-size: 14px !important;
+    }
+     .live-topic-box .sticky-clamp-text {
+       font-size: 16px !important;
+    }
+ 
+    .tag-page-header-info{
+       padding: 0 8px !important;
+     }
+     .tag-page-header-meta{
+       font-size: 13px !important;
+     }
+     .tag-page-header-meta .tagpage-author a {
+       font-size: 13px !important;
+     }
+     .tag-page-header{
+       width: 100% !important;
+     }
+     .smart-menu-holder{
+       overflow-x: scroll;
+       width: 100%;
+       padding: 5px;
+     }
+      .smart-menu-holder::-webkit-scrollbar {
+       width: 0px;
+       height: 0px;
+       background-color: #aaa;
+    }
+    
+     .smart-menu-holder::-webkit-scrollbar-thumb {
+       background: #d32f2f;
+    }
+     .smart-menu-holder ul a{
+       white-space: nowrap !important;
+     }
+     .breadcrumb-container .wrapper-container ul{
+       padding-left: 10px;
+     }
+     .social-wrapper{
+       width: 100% !important;
+     }
+     
+ }

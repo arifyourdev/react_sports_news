@@ -1,0 +1,173 @@
+.main-header {
+    display: flex;
+    align-items: center;
+}
+
+.col-flex-1 {
+    flex: 2.5;
+}
+
+.col-flex-1 .leftMenu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.leftMenu .logo {
+    margin-right: 7rem;
+}
+
+.leftMenu .leftmenu {
+    cursor: pointer;
+}
+
+header {
+    height: 50px;
+    background-color: #FFF;
+    position: fixed;
+    z-index: 10000;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
+    top: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding-left: 12px;
+    padding-right: 11px
+}
+
+.logo img {
+    width: 200px;
+    height: 25px;
+}
+
+.col-flex-2 {
+    flex: 4;
+}
+
+.main-navbar .menu-items {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin-top: 1rem;
+}
+
+.main-navbar .menu-items li {
+    margin-left: 1.5rem;
+}
+
+.main-navbar .menu-items a {
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #4c4646 !important;
+    text-decoration: none !important;
+}
+
+.main-navbar .menu-items .active {
+    border-bottom: 3px solid #D32F2F;
+    padding-bottom: 16px;
+    color: #D32F2F !important;
+}
+
+.col-flex-3 {
+    flex: 2.5;
+}
+
+.rightHead {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.rightHead .rightLeft {
+    display: flex;
+    align-items: center;
+    margin-left: 3rem;
+}
+
+.rightHead .rightLeft .sport-create {
+    margin-left: 2rem;
+}
+
+.rightHead .rightLeft .sport-create span {
+    margin-left: .5rem;
+}
+
+.rightHead .rightLeft .sport-create .createBtn {
+    float: right;
+    display: flex;
+    align-items: center;
+    width: 100px;
+    height: 24px;
+    font-size: 14px;
+    position: relative;
+    border-radius: 100px;
+    border: solid 1px #34495e;
+    text-align: center;
+    text-transform: uppercase;
+    justify-content: center;
+    color: #34495e;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.rightLogin .sportLogin .login-btn {
+    width: 78px;
+    height: 26px;
+    display: flex;
+    border-radius: 12px;
+    align-items: center;
+    background-color: #d32f2f !important;
+    border: solid 1px #d32f2f;
+    color: #fff !important;
+    text-transform: uppercase;
+    justify-content: center;
+    padding: 0px 12px !important;
+    margin: 0 10px 0 20px !important;
+    cursor: pointer;
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none !important;
+    font-weight: 500;
+}
+.user_login_nav{
+    width: 27px;
+    height: 27px;
+    border-radius: 100%;
+    object-fit: contain;
+    border: 1px solid #e73c3c;
+    cursor: pointer;
+}
+.user-login-box{
+    position: absolute;
+    right: 35px;
+    max-width: 400px;
+    width: 300px;
+    padding: 20px;
+    background: #fff;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.user-login-box .topLeft{
+    display: flex;
+    gap: 10px;
+}
+.topLeft .lb-img{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+}
+.user-logout{
+    display: flex;
+    justify-content: center;
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+    align-items: center;
+    padding-bottom: 4px;
+    margin-top: 1rem;
+}
+.user-logout .u-logout{
+    font-weight: 600;
+    color: gray;
+}

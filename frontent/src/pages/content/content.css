@@ -1,0 +1,46 @@
+.bc-2 {
+    margin-top: 3.2rem !important;
+}
+.breadcrumb-container .wrapper-container {
+    max-width: 1200px;
+    margin: auto;
+}
+.breadcrumb-container .wrapper-container ul {
+    display: flex;
+    list-style: none;
+    overflow-x: auto;
+}
+.breadcrumb-container .wrapper-container ul .anchor {
+    font-size: 12px;
+    color: #9c9393;
+}
+.bc-2 .wrapper-container ul .anchor {
+    font-size: 13px !important;
+    color: #41464b !important;
+    text-decoration: none;
+}
+.CustomContainer {
+    max-width: 1200px;
+    width: 1150px;
+    margin: auto;
+}
+.contents-holders {
+    margin-top: 2rem;
+}
+.contents-holders h3 {
+    font-size: 20px;
+    font-weight: 700;
+}
+.contents-holders p {
+    clear: both;
+    width: 100%;
+    padding: 0 24px;
+    font-size: 18px !important;
+    line-height: 35px;
+    color: #222;
+    background: transparent !important;
+}
+
+.privacy-content p {
+  padding: 0 !important;
+}
